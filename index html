@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ayesha Khansa - Business Enthusiast and Entrepreneur in the Making">
+    <title>Ayesha Khansa - Business Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="images/profile-pic.png" alt="Ayesha Khansa" class="profile-pic">
+            <h1>Ayesha Khansa</h1>
+            <p>Business Enthusiast | Aspiring Entrepreneur</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hi! I'm Ayesha Khansa, a passionate business enthusiast currently learning and building my skills for the future. I aim to make a difference through innovative business ideas and initiatives. I love engaging with people, learning from experiences, and contributing to the community. My goal is to start a business that helps people while also benefitting me.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills & Interests</h2>
+            <ul>
+                <li>Business Strategy</li>
+                <li>Communication & Networking</li>
+                <li>Entrepreneurship</li>
+                <li>Problem Solving</li>
+                <li>Social Impact</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>If you would like to get in touch or collaborate, feel free to reach out!</p>
+            <a href="mailto:ayesha.business@example.com" class="contact-btn">Email Me</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Ayesha Khansa. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ayesha Khansa - Business Enthusiast and Entrepreneur in the Making">
+    <title>Ayesha Khansa - Business Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="images/profile-pic.png" alt="Ayesha Khansa" class="profile-pic">
+            <h1>Ayesha Khansa</h1>
+            <p>Business Enthusiast | Aspiring Entrepreneur</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hi! I'm Ayesha Khansa, a passionate business enthusiast currently learning and building my skills for the future. I aim to make a difference through innovative business ideas and initiatives. I love engaging with people, learning from experiences, and contributing to the community. My goal is to start a business that helps people while also benefitting me.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills & Interests</h2>
+            <ul>
+                <li>Business Strategy</li>
+                <li>Communication & Networking</li>
+                <li>Entrepreneurship</li>
+                <li>Problem Solving</li>
+                <li>Social Impact</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>If you would like to get in touch or collaborate, feel free to reach out!</p>
+            <a href="mailto:ayesha.business@example.com" class="contact-btn">Email Me</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Ayesha Khansa. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
